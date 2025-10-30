@@ -5,7 +5,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![W3C Validated](https://img.shields.io/badge/HTML-W3C_Validated-brightgreen?style=for-the-badge)](https://validator.w3.org/)
 
-## Sistema web completo e profissional para gestão de organizações não-governamentais, desenvolvido com as melhores práticas de acessibilidade.
+## Sistema web para gestão de organizações não-governamentais, desenvolvido com as melhores práticas de acessibilidade.
 
 ## 🚀 Funcionalidades
 
